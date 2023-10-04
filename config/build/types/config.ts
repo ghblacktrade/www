@@ -5,6 +5,7 @@ export interface IBuildPaths {
     entry: string
     dist: string
     html: string
+    src: string
 }
 
 export interface BuildEnv {
